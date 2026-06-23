@@ -1,6 +1,6 @@
 # file-manager-google-drive-core-service
 
-This repository contains the ASP.NET Core Google drive file system providers for the Syncfusion File Manager component.
+This repository contains the ASP.NET Core Google drive file system providers for the File Manager component.
 
 ## Key Features
 
